@@ -11,6 +11,7 @@ import java.util.Random;
  * 출력: SK CY
  *
  * N이 홀수면 SK 짝수면 CY
+ * 동적 계획법 , 게임이론 수학
  */
 public class StoneGameV9659 {
     public static void main(String[] args) throws IOException {
